@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KonverterX:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KonverterX_jar</output-path>
+    <root id="archive" name="Textumwandelns.jar">
+      <element id="module-output" name="Textumwandeln" />
+    </root>
+  </artifact>
+</component>
